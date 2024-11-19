@@ -39,9 +39,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
-		</dependency>
-
-		<dependency>
 		    <exclusions>
        		 <exclusion>
 	            <groupId>org.junit.jupiter</groupId>
