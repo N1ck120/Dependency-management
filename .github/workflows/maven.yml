@@ -33,5 +33,5 @@ jobs:
       run: | 
           npm install
           npm update
-          npm audit 
+          npm audit fix
       working-directory: ./node
